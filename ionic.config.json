@@ -1,0 +1,7 @@
+{
+    "name": "iess",
+    "integrations": {
+        "cordova": {}
+    },
+    "type": "angular"
+}
